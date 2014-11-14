@@ -1,0 +1,14 @@
+PODS:
+  - TPKeyboardAvoiding (1.2.4)
+
+DEPENDENCIES:
+  - TPKeyboardAvoiding (from `https://raw.githubusercontent.com/michaeltyson/TPKeyboardAvoiding/master/TPKeyboardAvoiding.podspec`)
+
+EXTERNAL SOURCES:
+  TPKeyboardAvoiding:
+    :podspec: https://raw.githubusercontent.com/michaeltyson/TPKeyboardAvoiding/master/TPKeyboardAvoiding.podspec
+
+SPEC CHECKSUMS:
+  TPKeyboardAvoiding: 8697452d663b08df4f7bbcc983741e9754aaeacc
+
+COCOAPODS: 0.34.4
